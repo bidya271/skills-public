@@ -1,6 +1,6 @@
 # Codebase Knowledge Base Generator
 
-Architected by Bidya. Generate systematic architecture diagrams concept maps and module documentation templates for single projects and monorepo codebases.
+Generate systematic architecture diagrams concept maps and module documentation templates for single projects and monorepo codebases.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

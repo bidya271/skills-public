@@ -1,6 +1,6 @@
 # Architecture Decision Records (ADR)
 
-Architected by Bidya. Capture evaluate and maintain system architecture decisions and trade-offs with production grade documentation hygiene.
+Capture evaluate and maintain system architecture decisions and trade-offs with production grade documentation hygiene.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

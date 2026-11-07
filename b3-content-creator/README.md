@@ -41,4 +41,4 @@ Get the full skill pack for the price of a coffee directly on this listing.
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

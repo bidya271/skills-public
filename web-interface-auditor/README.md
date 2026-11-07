@@ -1,6 +1,6 @@
 # Web Interface Auditor
 
-Architected by Bidya. Automated UI and UX code auditing against modern web interface guidelines accessibility standards and responsive frontend ergonomics.
+Automated UI and UX code auditing against modern web interface guidelines accessibility standards and responsive frontend ergonomics.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

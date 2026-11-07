@@ -1,6 +1,6 @@
 # UI/UX Design Intelligence Engine
 
-Architected by Bidya. Comprehensive design intelligence database covering 50 design styles 21 color palettes 50 font pairings and stack-specific component guidelines.
+Comprehensive design intelligence database covering 50 design styles 21 color palettes 50 font pairings and stack-specific component guidelines.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

@@ -1,6 +1,6 @@
 # Automated Changelog Generator
 
-Architected by Bidya. Automate customer ready release notes and changelogs directly from git history and pull requests with zero manual editing.
+Automate customer ready release notes and changelogs directly from git history and pull requests with zero manual editing.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

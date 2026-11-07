@@ -1,6 +1,6 @@
 # Agent Browser Automation
 
-Architected by Bidya. Chrome and Chromium CDP browser automation framework enabling AI agents to navigate inspect fill forms and test live web applications.
+Chrome and Chromium CDP browser automation framework enabling AI agents to navigate inspect fill forms and test live web applications.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

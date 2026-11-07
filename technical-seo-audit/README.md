@@ -1,6 +1,6 @@
 # Technical SEO Audit Engine
 
-Architected by Bidya. Maximize organic developer discovery featured snippet capture and search visibility for technical documentation and engineering guides.
+Maximize organic developer discovery featured snippet capture and search visibility for technical documentation and engineering guides.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

@@ -1,6 +1,6 @@
 # File Based Agent Planner
 
-Architected by Bidya. Stop AI agents from losing context and getting trapped in repetitive error loops during complex long running tasks.
+Stop AI agents from losing context and getting trapped in repetitive error loops during complex long running tasks.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

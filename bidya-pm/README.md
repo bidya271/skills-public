@@ -44,4 +44,4 @@ https://www.agensi.io/skills/skill-for-product-management-strategic-execution
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.

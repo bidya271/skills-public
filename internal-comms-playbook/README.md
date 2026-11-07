@@ -1,6 +1,6 @@
 # Internal Communications Playbook
 
-Architected by Bidya. Draft high-impact executive updates weekly 3P team reports post-mortem incident analyses and company newsletters with boardroom polish.
+Draft high-impact executive updates weekly 3P team reports post-mortem incident analyses and company newsletters with boardroom polish.
 
 You can buy the full skill pack for the price of a coffee directly on the listing page.
 
@@ -34,4 +34,4 @@ Drop the skill folder directly into your agent skills directory:
 
 ## License
 
-MIT License. Authored by Bidya.
+MIT License.
